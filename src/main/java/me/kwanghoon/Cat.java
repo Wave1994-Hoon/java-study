@@ -22,4 +22,9 @@ public class Cat {
     void meow() {
         System.out.println(" 야옹 !!");
     }
+
+
+    public void vvv() {
+        char[] aa = new char[] {'a', 'v', 'd'};
+    }
 }
